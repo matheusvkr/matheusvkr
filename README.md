@@ -1,59 +1,82 @@
-<h1 align="center">- Matheus Brianesi - </h1>
-
-###
-
-<h6 align="center">Software Development Student • Backend</h6>
-
-###
+<h1 align="center">Matheus Brianesi</h1>
 
 <p align="center">
-  <b>Programming & Frameworks</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,nodejs,react,tailwind" />
-  </a>
+  Software Development Student • Backend Developer
 </p>
 
-<p align="center">
-  <b>Data</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-    <img src="https://skillicons.dev/icons?i=postgresql,mongodb"/>
-  </a>
-</p>
-
-<p align="center">
-  <b>Tools</b><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,visualstudio" />
-  </a>
-</p>
-
-
-<p align="center">
-  <b>Contact</b><br>
-  <a href="https://www.linkedin.com/feed/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="https://discord.com/channels/@me">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-
-  <a href="mailto:matheusbrianezzi@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
-##
+---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=matheusvkr&locale=en&mode=weekly&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+### Stack
+
+<table>
+<tr>
+<td align="left" width="140"><strong>Languages</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=cs,js,html,css" />
+</td>
+</tr>
+
+<tr>
+<td align="left"><strong>Frameworks</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,tailwind" />
+</td>
+</tr>
+
+<tr>
+<td align="left"><strong>Database</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb" />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
+    height="48"
+  />
+</td>
+</tr>
+
+<tr>
+<td align="left"><strong>Tools</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,vscode,visualstudio" />
+</td>
+</tr>
+</table>
+
 </div>
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<div align="center">
+
+### Contact
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:matheusbrianezzi@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://discordapp.com/users/SEU-ID">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
+
 </div>
 
-###
+---
+
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=matheusvkr&locale=en&mode=weekly&theme=gotham&hide_border=true&border_radius=8" 
+    height="160"
+  />
+</div>
+
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"
+  />
+</div>
